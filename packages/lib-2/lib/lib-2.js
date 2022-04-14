@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-module.exports = lib2;
+module.exports = goodbye;
 
-function lib2() {
-    // TODO
+function goodbye() {
+  console.log("bye");
 }
