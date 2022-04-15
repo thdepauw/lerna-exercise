@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Thomas De Pauw <thomas.depauw@xerius.be>",
   "homepage": "",
@@ -18,7 +18,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "lib-1": "^1.0.0",
-    "lib-2": "^1.0.0"
+    "lib-1": "^1.0.1",
+    "lib-2": "^1.0.1"
   }
 }
