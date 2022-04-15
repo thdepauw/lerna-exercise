@@ -1,4 +1,9 @@
 {
   "packages": ["apps/*", "packages/*"],
-  "version": "independent"
+  "version": "independent",
+  "commands": {
+    "publish": {
+      "message": "chore: release"
+    }
+  }
 }
