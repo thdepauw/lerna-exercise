@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "version:master": "lerna version --conventional-commits",
+    "version:master": "lerna version --conventional-commits --conventional-graduate",
+    "version:hotfix": "lerna version --conventional-commits",
     "version:dev": "lerna version --conventional-commits --conventional-prerelease",
     "publish:master": "lerna publish --conventional-commits --skip-npm",
     "publish:dev": "lerna publish --conventional-commits --conventional-prerelease --skip-npm",
