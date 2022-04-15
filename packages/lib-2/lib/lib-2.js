@@ -3,5 +3,6 @@
 module.exports = goodbye;
 
 function goodbye() {
-  console.log("bye");
+  console.log("bye 👋");
+  console.log("🎉🎉🎉");
 }
