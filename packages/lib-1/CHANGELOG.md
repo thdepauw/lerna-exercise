@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0-alpha.1](https://github.com/thdepauw/lerna-exercise/compare/lib-1@1.2.1...lib-1@1.3.0-alpha.1) (2022-04-19)
+
+
+### Features
+
+* talk ([b656ea2](https://github.com/thdepauw/lerna-exercise/commit/b656ea2260d4c892eade839f19adf465e8ba597f))
+
+
+
+
+
+
 # [1.3.0-alpha.0](https://github.com/thdepauw/lerna-exercise/compare/lib-1@1.2.0...lib-1@1.3.0-alpha.0) (2022-04-19)
 
 
