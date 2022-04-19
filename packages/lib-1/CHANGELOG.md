@@ -14,6 +14,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [1.2.1](https://github.com/thdepauw/lerna-exercise/compare/lib-1@1.2.0...lib-1@1.2.1) (2022-04-19)
+
+
+### Bug Fixes
+
+* typo in conversation ([80d6b19](https://github.com/thdepauw/lerna-exercise/commit/80d6b19877b05754b72b487866d030066d8bf148))
+
+
+
+
+
+
 # [1.2.0](https://github.com/thdepauw/lerna-exercise/compare/lib-1@1.1.0...lib-1@1.2.0) (2022-04-19)
 
 
