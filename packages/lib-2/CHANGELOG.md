@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0-alpha.0](https://github.com/thdepauw/lerna-exercise/compare/lib-2@1.1.0...lib-2@1.2.0-alpha.0) (2022-04-19)
+
+
+### Features
+
+* call me ([fcdaa93](https://github.com/thdepauw/lerna-exercise/commit/fcdaa93528f8cb50b8b765c98ea624d15f479e75))
+
+
+
+
+
 # [1.1.0](https://github.com/thdepauw/lerna-exercise/compare/lib-2@1.1.0-alpha.0...lib-2@1.1.0) (2022-04-15)
 
 **Note:** Version bump only for package lib-2
